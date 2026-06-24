@@ -1,3 +1,9 @@
+Try it--"Copy tracker-demo.tsx, paste into Claude, and ask it to run the file."
+
+
+<img width="821" height="891" alt="image" src="https://github.com/user-attachments/assets/8bbfe59a-fd6c-4701-b3a9-0a51253059c5" />
+
+
 # 📥 Inbox To-Do Tracker
 
 An AI-assisted personal productivity tool that turns a busy Outlook inbox into a living to-do list. It reads the emails that actually need action, lets you mark them **To Do / Waiting / Done**, tracks your own manual to-dos, and automatically works out recurring deadlines — all in one view that remembers your progress.
