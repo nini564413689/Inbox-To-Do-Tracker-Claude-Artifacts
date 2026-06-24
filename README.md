@@ -15,6 +15,18 @@ Built using **Claude** (Anthropic's AI assistant) connected to **Microsoft 365**
 
 ---
 
+## ▶️ Try the demo (no setup)
+
+You don't need to install anything. Just:
+
+1. Open [`tracker-demo.tsx`](./tracker-demo.tsx) and copy its contents (or download the file).
+2. Paste it into a chat with **Claude**.
+3. Ask Claude to **run it as an artifact**.
+
+It opens live with safe sample data, so you can click the buttons, change statuses, add to-dos, and tick a recurring deadline. **No Microsoft 365 connector needed for the demo** — that's only required for the real version that reads your own inbox.
+
+---
+
 ## ✨ What it does
 
 - **Reads your inbox** and surfaces only the emails that need action — with a plain-language summary and the specific next step for each.
