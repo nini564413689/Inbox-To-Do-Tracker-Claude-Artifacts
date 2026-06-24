@@ -3,6 +3,7 @@ Try it--"Copy tracker-demo.tsx, paste into Claude, and ask it to run the file."
 
 <img width="821" height="891" alt="image" src="https://github.com/user-attachments/assets/8bbfe59a-fd6c-4701-b3a9-0a51253059c5" />
 
+<img width="702" height="704" alt="image" src="https://github.com/user-attachments/assets/8dc23086-534f-45b1-b129-c22a9b072c51" />
 
 # 📥 Inbox To-Do Tracker
 
