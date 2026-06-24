@@ -84,6 +84,10 @@ Claude will scan, then create the tracker as an artifact you can interact with.
 - **Open an email** — use the *Open in Outlook* link on any card.
 - **Refresh it** — each morning (or whenever), just say **"update"** or **"re-scan my inbox."** Claude pulls in new emails, checks your **Sent Items**, and moves anything you've already replied to into *Waiting* or *Done*. Your manual to-dos and your own marks are left alone.
 
+> 💡 **Tip — keep updates fast and low-cost.** When you first set up your tracker, tell Claude:
+> *"When I ask you to update, please make small targeted edits to only the items that changed, instead of rewriting the whole tracker — and give me a short text summary of what changed."*
+> This way each refresh only touches the few tasks that actually moved, instead of re-printing the entire tracker every time.
+
 ## 3. Set up your recurring deadlines
 
 Tell Claude your recurring tasks in plain language and it will add them to a **Recurring Deadlines** section that auto-calculates the next due date every time you open the tracker.
@@ -130,6 +134,7 @@ Claude parks anything that looks like phishing or payment fraud in a separate **
 ## Quick reference — handy phrases
 
 - *"Update / re-scan my inbox"* — refresh tasks and reply statuses
+- *"Update with small edits only"* — refresh cheaply, without re-printing the whole tracker
 - *"Add a recurring deadline: …"* — set up an auto-calculated due date
 - *"Change my [task] to …"* — edit a recurring rule
 - *"[Name] reports to me…"* — turn on delegation handling
