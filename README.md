@@ -73,7 +73,7 @@ You'll need the **Microsoft 365 connector** turned on in Claude (so it can read 
 
 Open a chat with Claude and paste:
 
-> **Scan my Outlook inbox for the emails that need action, and build me an interactive to-do tracker. For each item include a plain-language summary, the specific action needed from me, a status I can set (To Do / Waiting / Done), and a link to open the original email. Add a section where I can type my own to-dos, and flag any suspicious/phishing emails separately instead of as tasks.**
+> **Scan my Outlook inbox for the emails that need action, and build me an interactive to-do tracker. For each item include a plain-language summary, the specific action needed from me, a status I can set (To Do / Waiting / Done), and a link to open the original email. Add a section where I can type my own to-dos, and flag any suspicious/phishing emails separately instead of as tasks. When I later ask you to update, make small targeted edits to only the items that changed instead of rewriting the whole tracker, and give me a short text summary of what changed.**
 
 Claude will scan, then create the tracker as an artifact you can interact with.
 
@@ -83,10 +83,6 @@ Claude will scan, then create the tracker as an artifact you can interact with.
 - **Add your own to-do** — type it in the *My To-Dos* box and press Enter.
 - **Open an email** — use the *Open in Outlook* link on any card.
 - **Refresh it** — each morning (or whenever), just say **"update"** or **"re-scan my inbox."** Claude pulls in new emails, checks your **Sent Items**, and moves anything you've already replied to into *Waiting* or *Done*. Your manual to-dos and your own marks are left alone.
-
-> 💡 **Tip — keep updates fast and low-cost.** When you first set up your tracker, tell Claude:
-> *"When I ask you to update, please make small targeted edits to only the items that changed, instead of rewriting the whole tracker — and give me a short text summary of what changed."*
-> This way each refresh only touches the few tasks that actually moved, instead of re-printing the entire tracker every time.
 
 ## 3. Set up your recurring deadlines
 
